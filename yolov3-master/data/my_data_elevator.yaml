@@ -1,6 +1,6 @@
-path: ../datasets/images_floor  # dataset root dir
-train: images2
-val: images2
+path: ../datasets/images_floor/train2  # dataset root dir
+train: images
+val: images
 test:  # test images (optional)
 
 # Classes
